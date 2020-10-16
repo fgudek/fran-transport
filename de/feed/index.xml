@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Fran d.o.o.</title>
-	<atom:link href="https://fgudek.github.io/fran-transport/test/de/feed/" rel="self" type="application/rss+xml" />
-	<link href="">https://fgudek.github.io/fran-transport/test/de/</link>
+	<atom:link href="https://fgudek.github.io/fran-transport/de/feed/" rel="self" type="application/rss+xml" />
+	<link href="">https://fgudek.github.io/fran-transport/de/</link>
 	<description>Transport in Eastern Europe </description>
 	<lastbuilddate>Fri, 17 Jul 2020 12:45:37 +0000</lastbuilddate>
 	<language>de-DE</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.5.1</generator>
 
 <image>
-	<url>https://fgudek.github.io/fran-transport/test/wp-content/uploads/2020/08/cropped-iconfinder_equipmentrental_23184431-32x32.png</url>
+	<url>https://fgudek.github.io/fran-transport/wp-content/uploads/2020/08/cropped-iconfinder_equipmentrental_23184431-32x32.png</url>
 	<title>Fran d.o.o.</title>
-	<link href="">https://fgudek.github.io/fran-transport/test/de/</link>
+	<link href="">https://fgudek.github.io/fran-transport/de/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link href="">https://fgudek.github.io/fran-transport/test/de/hello-world/</link>
-					<comments>https://fgudek.github.io/fran-transport/test/de/hello-world/#comments</comments>
+		<link href="">https://fgudek.github.io/fran-transport/de/hello-world/</link>
+					<comments>https://fgudek.github.io/fran-transport/de/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[fgudek]]></dc:creator>
 		<pubdate>Fri, 17 Jul 2020 12:45:37 +0000</pubdate>
@@ -42,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentrss>https://fgudek.github.io/fran-transport/test/de/hello-world/feed/</wfw:commentrss>
+					<wfw:commentrss>https://fgudek.github.io/fran-transport/de/hello-world/feed/</wfw:commentrss>
 			<slash:comments>1</slash:comments>
 		
 		

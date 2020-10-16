@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://fgudek.github.io/fran-transport/test/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fgudek.github.io/fran-transport/test/hello-world/</link>
+	<atom:link href="https://fgudek.github.io/fran-transport/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fgudek.github.io/fran-transport/hello-world/</link>
 	<description>Transport in Eastern Europe </description>
 	<lastBuildDate>Fri, 17 Jul 2020 12:45:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://fgudek.github.io/fran-transport/test/hello-world/#comment-1</link>
+		<link>https://fgudek.github.io/fran-transport/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 17 Jul 2020 12:45:37 +0000</pubDate>
